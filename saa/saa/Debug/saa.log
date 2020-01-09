@@ -1,0 +1,9 @@
+﻿  saa.cpp
+C:\Users\mssevov18\source\repos\saa\saa\saa.cpp(85,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mssevov18\source\repos\saa\saa\saa.cpp(237,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mssevov18\source\repos\saa\saa\saa.cpp(254,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mssevov18\source\repos\saa\saa\saa.cpp(271,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mssevov18\source\repos\saa\saa\saa.cpp(330,16): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mssevov18\source\repos\saa\saa\saa.cpp(347,16): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\mssevov18\source\repos\saa\saa\saa.cpp(364,16): warning C4553: '==': result of expression not used; did you intend '='?
+  saa.vcxproj -> C:\Users\mssevov18\source\repos\saa\Debug\saa.exe
